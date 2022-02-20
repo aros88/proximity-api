@@ -1,0 +1,1 @@
+Dir["#{Rails.root}/app/models/k_means.rb"].each { |f| require(f) }
